@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/codding/connection-demo/receiver/Connector.cpp
+Connector.h
+D:/codding/connection-demo/receiver/Connector.h
+
+D:/codding/connection-demo/receiver/Connector.h
+iostream
+D:/codding/connection-demo/receiver/iostream
+fstream
+-
+
+D:/codding/connection-demo/receiver/main.cpp
+iostream
+-
+fstream
+-
+time.h
+-
+windows.h
+-
+unistd.h
+-
+string
+-
+Connector.h
+D:/codding/connection-demo/receiver/Connector.h
+

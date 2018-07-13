@@ -1,0 +1,3 @@
+D:/codding/connection-demo/receiver/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/codding/connection-demo/receiver/cmake-build-debug/CMakeFiles/receiver.dir
+D:/codding/connection-demo/receiver/cmake-build-debug/CMakeFiles/rebuild_cache.dir

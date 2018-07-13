@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././time_funcs.h
+time.h
+-
+windows.h
+-
+unistd.h
+-
+
+D:/codding/connection-demo/emitter/connection.cpp
+connection.h
+D:/codding/connection-demo/emitter/connection.h
+
+D:/codding/connection-demo/emitter/connection.h
+iostream
+D:/codding/connection-demo/emitter/iostream
+fstream
+-
+
+D:/codding/connection-demo/emitter/main.cpp
+iostream
+-
+fstream
+-
+time_funcs.h
+-
+vector
+-
+string
+-
+connection.h
+D:/codding/connection-demo/emitter/connection.h
+
