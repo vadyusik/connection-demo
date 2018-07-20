@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/codding/connection-demo/receiver/Connector.cpp" "D:/codding/connection-demo/receiver/cmake-build-debug/CMakeFiles/receiver.dir/Connector.cpp.obj"
-  "D:/codding/connection-demo/receiver/main.cpp" "D:/codding/connection-demo/receiver/cmake-build-debug/CMakeFiles/receiver.dir/main.cpp.obj"
+  "/home/vadim/codding/sources/connection-demo/receiver/Connector.cpp" "/home/vadim/codding/sources/connection-demo/receiver/cmake-build-debug/CMakeFiles/receiver.dir/Connector.cpp.o"
+  "/home/vadim/codding/sources/connection-demo/receiver/main.cpp" "/home/vadim/codding/sources/connection-demo/receiver/cmake-build-debug/CMakeFiles/receiver.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

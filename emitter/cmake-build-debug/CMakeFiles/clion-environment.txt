@@ -1,4 +1,2 @@
-ToolSet: 12.0@C:\Program Files (x86)\Microsoft Visual Studio 12.0
 Options: 
-
-Options:
+CMake: 3.7.2@/home/vadim/codding/programs/clion-2017.1.3/bin/cmake/bin/cmake

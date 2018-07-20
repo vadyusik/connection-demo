@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -14,17 +14,17 @@ windows.h
 unistd.h
 -
 
-D:/codding/connection-demo/emitter/connection.cpp
+/home/vadim/codding/sources/connection-demo/emitter/connection.cpp
 connection.h
-D:/codding/connection-demo/emitter/connection.h
+/home/vadim/codding/sources/connection-demo/emitter/connection.h
 
-D:/codding/connection-demo/emitter/connection.h
+/home/vadim/codding/sources/connection-demo/emitter/connection.h
 iostream
-D:/codding/connection-demo/emitter/iostream
+/home/vadim/codding/sources/connection-demo/emitter/iostream
 fstream
 -
 
-D:/codding/connection-demo/emitter/main.cpp
+/home/vadim/codding/sources/connection-demo/emitter/main.cpp
 iostream
 -
 fstream
@@ -36,5 +36,5 @@ vector
 string
 -
 connection.h
-D:/codding/connection-demo/emitter/connection.h
+/home/vadim/codding/sources/connection-demo/emitter/connection.h
 

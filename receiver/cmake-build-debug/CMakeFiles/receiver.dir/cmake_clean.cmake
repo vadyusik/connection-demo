@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/receiver.dir/main.cpp.obj"
-  "CMakeFiles/receiver.dir/Connector.cpp.obj"
+  "CMakeFiles/receiver.dir/main.cpp.o"
+  "CMakeFiles/receiver.dir/Connector.cpp.o"
   "receiver.pdb"
-  "receiver.exe"
-  "receiver.exe.manifest"
-  "receiver.lib"
+  "receiver"
 )
 
 # Per-language clean rules from dependency scanning.

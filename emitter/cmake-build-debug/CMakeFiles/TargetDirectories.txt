@@ -1,3 +1,3 @@
-D:/codding/connection-demo/emitter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/codding/connection-demo/emitter/cmake-build-debug/CMakeFiles/emitter.dir
-D:/codding/connection-demo/emitter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vadim/codding/sources/connection-demo/emitter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vadim/codding/sources/connection-demo/emitter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vadim/codding/sources/connection-demo/emitter/cmake-build-debug/CMakeFiles/emitter.dir

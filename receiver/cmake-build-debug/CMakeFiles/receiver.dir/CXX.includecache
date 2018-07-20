@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/codding/connection-demo/receiver/Connector.cpp
+/home/vadim/codding/sources/connection-demo/receiver/Connector.cpp
 Connector.h
-D:/codding/connection-demo/receiver/Connector.h
+/home/vadim/codding/sources/connection-demo/receiver/Connector.h
 
-D:/codding/connection-demo/receiver/Connector.h
+/home/vadim/codding/sources/connection-demo/receiver/Connector.h
 iostream
-D:/codding/connection-demo/receiver/iostream
+/home/vadim/codding/sources/connection-demo/receiver/iostream
 fstream
 -
 
-D:/codding/connection-demo/receiver/main.cpp
+/home/vadim/codding/sources/connection-demo/receiver/main.cpp
 iostream
 -
 fstream
@@ -30,5 +30,5 @@ unistd.h
 string
 -
 Connector.h
-D:/codding/connection-demo/receiver/Connector.h
+/home/vadim/codding/sources/connection-demo/receiver/Connector.h
 

@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/emitter.dir/connection.cpp.obj"
-  "CMakeFiles/emitter.dir/main.cpp.obj"
+  "CMakeFiles/emitter.dir/connection.cpp.o"
+  "CMakeFiles/emitter.dir/main.cpp.o"
   "emitter.pdb"
-  "emitter.exe"
-  "emitter.exe.manifest"
-  "emitter.lib"
+  "emitter"
 )
 
 # Per-language clean rules from dependency scanning.

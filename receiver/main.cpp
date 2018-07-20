@@ -36,8 +36,9 @@ int main() {
             while (std::getline(*strm, line)) {
                 std::cout << line << '\n';
             }
-        } else {
             conn->commands_accepted("");
+        } else {
+            conn->send_message();
             sleepcp(1000);
         }
     }
